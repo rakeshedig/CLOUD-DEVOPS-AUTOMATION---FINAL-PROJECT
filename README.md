@@ -7,23 +7,25 @@ This repo contains a full-stack app deployed on **Minikube**, showcasing a front
 
 ## 📂 Project Structure
 
+```
 frontend_app/
-├── Dockerfile           # Frontend Dockerfile 🏗️
-├── index.html           # Main HTML page 📝
-├── style.css            # Styling 🎨
-├── script.js            # Frontend logic ⚡
-├── static/              # Images & assets 🖼️
+├── Dockerfile              # Frontend Dockerfile 🏗️
+├── index.html              # Main HTML page 📝
+├── style.css               # Styling 🎨
+├── script.js               # Frontend logic ⚡
+├── static/                 # Images & assets 🖼️
 │   └── sample.jpg
-└── README.md            # Project overview 📖
+└── README.md               # Project overview 📖
 
 backend_app/
-├── Dockerfile           # Backend Dockerfile 🏗️
-├── app.py               # Flask API 🐍
-└── requirements.txt     # Python dependencies 📦
+├── Dockerfile              # Backend Dockerfile 🏗️
+├── app.py                  # Flask API 🐍
+└── requirements.txt        # Python dependencies 📦
 
 k8s/
-├── frontend-deployment.yaml   # Frontend Deployment & Service 🧩
-└── backend-deployment.yaml    # Backend Deployment & Service 🧩
+├── frontend-deployment.yaml  # Frontend Deployment & Service 🧩
+└── backend-deployment.yaml   # Backend Deployment & Service 🧩
+```
 
 ---
 
