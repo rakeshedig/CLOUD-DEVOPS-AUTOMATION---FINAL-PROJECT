@@ -1,4 +1,4 @@
-# 🌟 Frontend & Backend Mini Project
+# 🌟 Full-Stack Mini Project: Flask + Nginx + Docker + Kubernetes
 
 Welcome to my **Mini Kubernetes Project**! 🚀  
 This repo contains a full-stack app deployed on **Minikube**, showcasing a frontend served with **Nginx** and a backend API. Perfect for learning containerization, Kubernetes deployments, and local cloud setups. 💻☁️
